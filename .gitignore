@@ -25,7 +25,3 @@ tmp*
 # Exclude IDE's project directory.
 nbproject
 .idea
-
-# For Drupal 7, comment the following lines.
-vendor
-core/node_modules
