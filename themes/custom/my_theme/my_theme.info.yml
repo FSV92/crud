@@ -1,0 +1,12 @@
+name: My theme
+type: theme
+description: "Моя тема"
+core_version_requirement: 10
+libraries:
+  - my_theme/global-styling
+base theme: false
+regions:
+  header: Header
+  content: Content
+  sidebar_first: "Sidebar first"
+  footer: Footer
